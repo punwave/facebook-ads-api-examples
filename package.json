@@ -7,7 +7,7 @@
     "dotenv": "^7.0.0",
     "facebook-nodejs-business-sdk": "^4.0.8",
     "inquirer": "^6.2.2",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "moment": "^2.24.0",
     "opn": "^6.0.0",
     "server-destroy": "^1.0.1"
